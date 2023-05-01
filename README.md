@@ -10,9 +10,9 @@ then paste the generated url into a browser, to connect to your discord server(s
 looks something like this:
 https://discord.com/api/oauth2/authorize?client_id=<your_client_id>&permissions=274877979648&scope=bot
 
-to run the bot:
-npm i
-node index
+to run the bot:  
+npm i  
+node index  
 
 
 quick code structure:
