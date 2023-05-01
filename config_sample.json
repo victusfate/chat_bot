@@ -1,0 +1,12 @@
+{
+  "discord": {
+    "client_id": "<id>",
+    "secret": "<secret>"
+  },
+  "discord_bot": {
+    "token": "<token>"
+  },
+  "openai": {
+    "key": "<key>"
+  }
+}
