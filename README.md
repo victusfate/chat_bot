@@ -1,4 +1,4 @@
-# gm_bot
+# chat_bot
 
 
 setup your own by copying config_sample.json to config.json adding your discord and openai keys
